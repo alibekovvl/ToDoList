@@ -7,6 +7,56 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ToDoList.styles.css" asp-append-version="true" />
+    <style>
+        .task-block {
+            padding: 20px;
+            margin: 10px;
+            border-radius: 10px;
+            color: white;
+        }
+
+            .task-block h2 {
+                margin-top: 0;
+            }
+
+            .task-block ul {
+                list-style-type: none;
+                padding: 0;
+            }
+
+                .task-block ul li {
+                    background: rgba(255, 255, 255, 0.1);
+                    margin: 5px 0;
+                    padding: 10px;
+                    border-radius: 5px;
+                }
+
+            .task-block form {
+                margin-top: 20px;
+            }
+
+            .task-block input[type="text"] {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: none;
+                border-radius: 5px;
+            }
+
+            .task-block button {
+                width: 100%;
+                padding: 10px;
+                border: none;
+                border-radius: 5px;
+                background: rgba(255, 255, 255, 0.2);
+                color: white;
+                cursor: pointer;
+            }
+
+                .task-block button:hover {
+                    background: rgba(255, 255, 255, 0.3);
+                }
+    </style>
 </head>
 <body>
     <header>
@@ -32,6 +82,37 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="task-block" style="background-color: #ff6b6b;">
+                        <h2>To Do</h2>
+                        <ul>
+                            <li>Task 1</li>
+                            <li>Task 2</li>
+                            <!-- Здесь будут отображаться задачи, которые нужно выполнить -->
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="task-block" style="background-color: #4ecdc4;">
+                        <h2>Done</h2>
+                        <ul>
+                            <li>Task 3</li>
+                            <li>Task 4</li>
+                            <!-- Здесь будут отображаться выполненные задачи -->
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="task-block" style="background-color: #54a0ff;">
+                        <h2>Create Task</h2>
+                        <form>
+                            <input type="text" placeholder="Task title" />
+                            <button type="submit">Add Task</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
             @RenderBody()
         </main>
     </div>
