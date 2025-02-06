@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.DAL.deps.json
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.DAL.dll
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.DAL.pdb
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.Domain.dll
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.Domain.pdb
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.A2DAEE57.Up2Date
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.dll
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\refint\ToDoList.DAL.dll
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.pdb
+C:\Users\MSI\source\repos\Тестовые задания\ToDoList\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ref\ToDoList.DAL.dll
